@@ -1,6 +1,10 @@
 <code_scheme name="Default (1)">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_TEXT_WRAP" value="0" />
+  <JSCodeStyleSettings>
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="OBJECT_LITERAL_WRAP" value="2" />
+  </JSCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -18,7 +22,8 @@
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="TERNARY_OPERATION_WRAP" value="5" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
