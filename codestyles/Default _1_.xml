@@ -4,6 +4,7 @@
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="OBJECT_LITERAL_WRAP" value="2" />
+    <option name="IMPORTS_WRAP" value="2" />
   </JSCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
@@ -22,7 +23,8 @@
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-    <option name="TERNARY_OPERATION_WRAP" value="5" />
+    <option name="METHOD_BRACE_STYLE" value="5" />
+    <option name="TERNARY_OPERATION_WRAP" value="2" />
     <option name="ARRAY_INITIALIZER_WRAP" value="2" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
