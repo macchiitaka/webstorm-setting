@@ -1,10 +1,10 @@
 <code_scheme name="Default (1)">
+  <option name="RIGHT_MARGIN" value="80" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_TEXT_WRAP" value="0" />
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="OBJECT_LITERAL_WRAP" value="2" />
-    <option name="IMPORTS_WRAP" value="2" />
   </JSCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
