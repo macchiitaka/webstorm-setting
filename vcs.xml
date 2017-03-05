@@ -98,8 +98,20 @@
           <option name="url" value="https://github.com/srd7/redux-universal-asynchronous-sample" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mozilla/tofino.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Automattic/wp-calypso.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/facebook/flow.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Production/github/srd7" />
+    <option name="cloneParentDir" value="$USER_HOME$/Project/github/facebook" />
   </component>
 </application>
