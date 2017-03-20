@@ -11,7 +11,6 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/tmachinaga/Desktop/production/ntv_quiz/source/admin_html/app/tags/my-question-rate.tag'" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
