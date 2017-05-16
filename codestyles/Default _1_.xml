@@ -35,6 +35,7 @@
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
     <option name="PREFER_PARAMETERS_WRAP" value="true" />
     <option name="TERNARY_OPERATION_WRAP" value="2" />
     <option name="ARRAY_INITIALIZER_WRAP" value="2" />
