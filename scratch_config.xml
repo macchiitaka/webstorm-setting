@@ -1,5 +1,11 @@
 <application>
   <component name="ScratchConfig">
     <option name="defaultScratchMeaning" value="TOPMOST" />
+    <option name="fullScratchNamesOrdered">
+      <list>
+        <option value="foo.json" />
+      </list>
+    </option>
+    <option name="lastOpenedScratch" value="foo.json" />
   </component>
 </application>
