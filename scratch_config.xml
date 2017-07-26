@@ -4,8 +4,9 @@
     <option name="fullScratchNamesOrdered">
       <list>
         <option value="foo.json" />
+        <option value="scratch.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="foo.json" />
+    <option name="lastOpenedScratch" value="scratch.txt" />
   </component>
 </application>
