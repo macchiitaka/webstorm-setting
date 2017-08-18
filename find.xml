@@ -13,6 +13,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.story.js" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
@@ -24,7 +25,6 @@
       <mask>*.stor.css</mask>
       <mask>*.story.css</mask>
       <mask>*.story.</mask>
-      <mask>*.story.j</mask>
       <mask>*.stor.js</mask>
       <mask>*.sto.js</mask>
       <mask>*.st.js</mask>
@@ -39,11 +39,12 @@
       <mask>.stor.js</mask>
       <mask>.story.js</mask>
       <mask>*.story.js.js</mask>
-      <mask>*.story.js</mask>
       <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.story.j</mask>
+      <mask>*.story.js</mask>
     </recentFileMasks>
   </component>
 </application>
