@@ -13,11 +13,8 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.flow.js" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>*</mask>
-      <mask>*..css</mask>
       <mask>*.s.css</mask>
       <mask>*.st.css</mask>
       <mask>*.sto.css</mask>
@@ -44,6 +41,10 @@
       <mask>*.css</mask>
       <mask>*.story.j</mask>
       <mask>*.story.js</mask>
+      <mask>*.f.js</mask>
+      <mask>*.fl.js</mask>
+      <mask>*.flo.js</mask>
+      <mask>*.flow.js</mask>
     </recentFileMasks>
   </component>
 </application>
