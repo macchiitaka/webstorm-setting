@@ -8,8 +8,10 @@
         <option value="scratch3.js" />
         <option value="scratch1.txt" />
         <option value="scratch2.json" />
+        <option value="scratch4.js" />
       </list>
     </option>
+    <option name="lastOpenedScratch" value="scratch4.js" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
