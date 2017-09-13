@@ -6,17 +6,18 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="tag" type="HTML" />
       <removed_mapping ext="tag" type="JSP" />
-      <mapping pattern="aaaa" type="PLAIN_TEXT" />
+      <mapping ext="mjs" type="JavaScript" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".htpassword" type="PLAIN_TEXT" />
       <mapping pattern="react_meetup" type="PLAIN_TEXT" />
       <mapping pattern=".bk.babelrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".eslint" type="PLAIN_TEXT" />
       <mapping pattern="TYPE_TOP" type="PLAIN_TEXT" />
-      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="header" type="PLAIN_TEXT" />
-      <mapping pattern=".htpassword" type="PLAIN_TEXT" />
+      <mapping pattern="aaaa" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="org" type="PLAIN_TEXT" />
