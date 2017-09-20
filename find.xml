@@ -20,10 +20,6 @@
       <mask>*.stor.css</mask>
       <mask>*.story.css</mask>
       <mask>*.story.</mask>
-      <mask>*.stor.js</mask>
-      <mask>*.sto.js</mask>
-      <mask>*.st.js</mask>
-      <mask>*.s.js</mask>
       <mask>*..js</mask>
       <mask>*.js</mask>
       <mask>.js</mask>
@@ -34,16 +30,20 @@
       <mask>.stor.js</mask>
       <mask>.story.js</mask>
       <mask>*.story.js.js</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>*.story.j</mask>
-      <mask>*.story.js</mask>
       <mask>*.f.js</mask>
       <mask>*.fl.js</mask>
       <mask>*.flo.js</mask>
       <mask>*.flow.js</mask>
+      <mask>*.s.js</mask>
+      <mask>*.st.js</mask>
+      <mask>*.sto.js</mask>
+      <mask>*.stor.js</mask>
+      <mask>*.story.js</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
