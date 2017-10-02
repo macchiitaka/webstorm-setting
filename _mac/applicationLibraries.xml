@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="dexie" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_dexie@latest_dist_dexie.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_dexie@latest_dist_dexie.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
