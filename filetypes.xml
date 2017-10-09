@@ -5,18 +5,19 @@
       <removed_mapping ext="css" type="CSS" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="tag" type="HTML" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".lintstagedrc" type="JSON" />
       <removed_mapping ext="tag" type="JSP" />
       <mapping ext="mjs" type="JavaScript" />
-      <mapping ext="pu" type="PLAIN_TEXT" />
-      <mapping ext="gradle" type="PLAIN_TEXT" />
-      <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="map" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="jsa" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="org" type="PLAIN_TEXT" />
+      <mapping ext="pu" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="gradle" type="PLAIN_TEXT" />
+      <mapping ext="jsa" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
       <mapping ext="css" type="PostCSS" />
       <mapping ext="sqlite" type="SQL" />
