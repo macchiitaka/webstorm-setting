@@ -3,9 +3,11 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <removed_mapping ext="css" type="CSS" />
+      <removed_mapping ext="mjs" type="ECMAScript 6" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="tag" type="HTML" />
-      <mapping pattern=".lintstagedrc" type="JSON" />
       <mapping pattern=".prettierrc" type="JSON" />
+      <mapping pattern=".lintstagedrc" type="JSON" />
       <removed_mapping ext="tag" type="JSP" />
       <mapping ext="mjs" type="JavaScript" />
       <mapping pattern="a" type="PLAIN_TEXT" />
@@ -14,12 +16,11 @@
       <mapping ext="org" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="pu" type="PLAIN_TEXT" />
-      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="gradle" type="PLAIN_TEXT" />
       <mapping ext="jsa" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
-      <mapping ext="css" type="PostCSS" />
       <mapping ext="sqlite" type="SQL" />
       <mapping ext="cur" type="TypeScript" />
       <mapping ext="plist" type="XML" />
@@ -34,7 +35,6 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
