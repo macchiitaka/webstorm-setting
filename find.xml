@@ -14,11 +14,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.s.css</mask>
-      <mask>*.st.css</mask>
-      <mask>*.sto.css</mask>
-      <mask>*.stor.css</mask>
-      <mask>*.story.css</mask>
       <mask>*.story.</mask>
       <mask>*..js</mask>
       <mask>*.js</mask>
@@ -40,10 +35,15 @@
       <mask>*.sto.js</mask>
       <mask>*.stor.js</mask>
       <mask>*.story.js</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.te</mask>
+      <mask>*.tes</mask>
+      <mask>*.test</mask>
+      <mask>*.test.</mask>
+      <mask>*.test.js</mask>
     </recentFileMasks>
   </component>
 </application>
