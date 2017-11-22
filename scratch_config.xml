@@ -3,12 +3,8 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="foo.json" />
-        <option value="scratch.txt" />
-        <option value="scratch3.js" />
-        <option value="scratch4.js" />
-        <option value="scratch1.txt" />
-        <option value="scratch2.json" />
+        <option value="scratch.json" />
+        <option value="scratch" />
       </list>
     </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
