@@ -7,13 +7,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.default.js" />
     <recentFileMasks>
-      <mask>.st.js</mask>
-      <mask>.sto.js</mask>
-      <mask>.stor.js</mask>
-      <mask>.story.js</mask>
-      <mask>*.story.js.js</mask>
-      <mask>*.story.j</mask>
       <mask>*.f.js</mask>
       <mask>*.fl.js</mask>
       <mask>*.flo.js</mask>
@@ -33,11 +28,17 @@
       <mask>*.t.js</mask>
       <mask>*..js</mask>
       <mask>*.js</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.de</mask>
+      <mask>*.defa</mask>
+      <mask>*.defau</mask>
+      <mask>*.default</mask>
+      <mask>*.default.</mask>
+      <mask>*.default.js</mask>
     </recentFileMasks>
   </component>
 </application>
