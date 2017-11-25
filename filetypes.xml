@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping ext="conf" type="nginx file type" />
+      <mapping ext="css" type="PostCSS" />
     </extensionMap>
   </component>
 </application>
