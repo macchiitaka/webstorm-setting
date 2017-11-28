@@ -14,23 +14,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>.s.js</mask>
-      <mask>.st.js</mask>
-      <mask>.sto.js</mask>
-      <mask>.stor.js</mask>
-      <mask>.story.js</mask>
-      <mask>*.story.js.js</mask>
-      <mask>*.story.j</mask>
-      <mask>*.f.js</mask>
-      <mask>*.fl.js</mask>
-      <mask>*.flo.js</mask>
-      <mask>*.flow.js</mask>
-      <mask>*.s.js</mask>
-      <mask>*.st.js</mask>
-      <mask>*.sto.js</mask>
-      <mask>*.stor.js</mask>
-      <mask>*.story.js</mask>
-      <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
@@ -44,6 +27,23 @@
       <mask>*.t.js</mask>
       <mask>*..js</mask>
       <mask>*.js</mask>
+      <mask>i</mask>
+      <mask>in</mask>
+      <mask>ini</mask>
+      <mask>initila</mask>
+      <mask>initil</mask>
+      <mask>initi</mask>
+      <mask>init</mask>
+      <mask>inital-</mask>
+      <mask>inital</mask>
+      <mask>initals</mask>
+      <mask>initalsat</mask>
+      <mask>initalsa</mask>
+      <mask>initalsta</mask>
+      <mask>initalstate</mask>
+      <mask>initalstate.</mask>
+      <mask>initalstate.js</mask>
+      <mask>inital-state.js</mask>
     </recentFileMasks>
   </component>
 </application>
