@@ -1,22 +1,20 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.</mask>
+      <mask>*.f.js</mask>
+      <mask>*.fl.js</mask>
+      <mask>*.flo.js</mask>
+      <mask>*.flow.js</mask>
+      <mask>*.s.js</mask>
+      <mask>*.st.js</mask>
+      <mask>*.sto.js</mask>
+      <mask>*.stor.js</mask>
+      <mask>*.story.js</mask>
       <mask>*.te</mask>
       <mask>*.tes</mask>
       <mask>*.test</mask>
@@ -27,23 +25,17 @@
       <mask>*.t.js</mask>
       <mask>*..js</mask>
       <mask>*.js</mask>
-      <mask>i</mask>
-      <mask>in</mask>
-      <mask>ini</mask>
-      <mask>initila</mask>
-      <mask>initil</mask>
-      <mask>initi</mask>
-      <mask>init</mask>
-      <mask>inital-</mask>
-      <mask>inital</mask>
-      <mask>initals</mask>
-      <mask>initalsat</mask>
-      <mask>initalsa</mask>
-      <mask>initalsta</mask>
-      <mask>initalstate</mask>
-      <mask>initalstate.</mask>
-      <mask>initalstate.js</mask>
-      <mask>inital-state.js</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.de</mask>
+      <mask>*.defa</mask>
+      <mask>*.defau</mask>
+      <mask>*.default</mask>
+      <mask>*.default.</mask>
+      <mask>*.default.js</mask>
     </recentFileMasks>
   </component>
 </application>
