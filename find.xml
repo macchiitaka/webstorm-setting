@@ -9,10 +9,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.fl.js</mask>
-      <mask>*.flo.js</mask>
-      <mask>*.flow.js</mask>
       <mask>*.s.js</mask>
       <mask>*.st.js</mask>
       <mask>*.sto.js</mask>
@@ -39,6 +37,9 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
+      <mask>*s.js</mask>
+      <mask>*sto.js</mask>
+      <mask>*story.js</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
