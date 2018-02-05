@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".importsortrc" type="JSON" />
       <mapping ext="flow" type="JavaScript" />
+      <mapping ext="css" type="PostCSS" />
     </extensionMap>
   </component>
 </application>
