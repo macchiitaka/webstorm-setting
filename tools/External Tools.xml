@@ -27,10 +27,10 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="flow coverage (JSON)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="prettier (JSON)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$/node_modules/.bin/flow" />
-      <option name="PARAMETERS" value="coverage --json --pretty $FilePathRelativeToProjectRoot$" />
+      <option name="COMMAND" value="$ProjectFileDir$/node_modules/.bin/prettier" />
+      <option name="PARAMETERS" value="--write --parser=json $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
