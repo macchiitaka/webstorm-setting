@@ -1,22 +1,15 @@
 <toolSet name="External Tools">
-  <tool name="ESLint Fix" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="esLint fix" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$ProjectFileDir$/node_modules/.bin/eslint" />
       <option name="PARAMETERS" value="--fix $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="ESLint Check" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="esLint check" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$ProjectFileDir$/node_modules/.bin/eslint" />
       <option name="PARAMETERS" value="$FilePathRelativeToProjectRoot$" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="flow coverage" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$ProjectFileDir$/node_modules/.bin/flow" />
-      <option name="PARAMETERS" value="coverage --json --pretty $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
@@ -24,6 +17,20 @@
     <exec>
       <option name="COMMAND" value="$ProjectFileDir$/node_modules/.bin/import-sort" />
       <option name="PARAMETERS" value="$FilePathRelativeToProjectRoot$ --write" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="flow coverage (HTML)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$/node_modules/.bin/flow" />
+      <option name="PARAMETERS" value="coverage --color $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="flow coverage (JSON)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$/node_modules/.bin/flow" />
+      <option name="PARAMETERS" value="coverage --json --pretty $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
