@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*story.js</mask>
       <mask>*.js</mask>
@@ -25,10 +26,6 @@
       <mask>*.c.js</mask>
       <mask>*.cs.js</mask>
       <mask>*.css.js</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.sto</mask>
@@ -36,6 +33,10 @@
       <mask>*.story</mask>
       <mask>*.story.</mask>
       <mask>*.story.js</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
