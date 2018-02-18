@@ -1,0 +1,5 @@
+<templateSet group="JavaScript">
+  <template name="flow" value="/* flow */" description="Inserts @flow annotation" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
