@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.flow.js" />
     <recentFileMasks>
       <mask>*.test..css</mask>
       <mask>*.test..</mask>
@@ -27,17 +28,17 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.fo</mask>
-      <mask>*.flow.js</mask>
       <mask>*.flow.j</mask>
-      <mask>*.flow.</mask>
       <mask>*.flow</mask>
       <mask>*.flo</mask>
-      <mask>*.fl</mask>
-      <mask>*.f</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.</mask>
+      <mask>*.f</mask>
+      <mask>*.fl</mask>
+      <mask>*.flow.</mask>
+      <mask>*.flow.js</mask>
     </recentFileMasks>
   </component>
 </application>
