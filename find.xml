@@ -9,6 +9,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.test..css</mask>
       <mask>*.test..</mask>
@@ -32,14 +33,14 @@
       <mask>*.flow.j</mask>
       <mask>*.flow</mask>
       <mask>*.flo</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.</mask>
       <mask>*.f</mask>
       <mask>*.fl</mask>
       <mask>*.flow.</mask>
       <mask>*.flow.js</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
