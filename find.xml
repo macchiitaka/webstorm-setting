@@ -1,43 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.f.js</mask>
-      <mask>*.fl.js</mask>
-      <mask>*.flo.js</mask>
-      <mask>*.flow.js</mask>
-      <mask>*.s.js</mask>
-      <mask>*.st.js</mask>
-      <mask>*.sto.js</mask>
-      <mask>*.stor.js</mask>
-      <mask>*.story.js</mask>
-      <mask>*.te</mask>
-      <mask>*.tes</mask>
-      <mask>*.test</mask>
-      <mask>*.test.</mask>
-      <mask>*.test.js</mask>
-      <mask>*.tes.js</mask>
-      <mask>*.te.js</mask>
-      <mask>*.t.js</mask>
-      <mask>*..js</mask>
-      <mask>*.js</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.de</mask>
-      <mask>*.defa</mask>
-      <mask>*.defau</mask>
-      <mask>*.default</mask>
-      <mask>*.default.</mask>
-      <mask>*.default.js</mask>
-      <mask>*.css</mask>
-    </recentFileMasks>
   </component>
 </application>
