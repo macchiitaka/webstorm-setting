@@ -1,0 +1,7 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.anyenv/envs/ndenv/shims/node">
+      <version-cache version="8.9.4" last-modified="1504191607000" />
+    </local-interpreter>
+  </component>
+</application>

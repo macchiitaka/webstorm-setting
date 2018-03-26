@@ -1,26 +1,13 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
       <component name="InspectionProjectProfileManager">
-        <profile version="1.0">
-          <option name="myName" value="Project Default" />
-          <option name="myLocal" value="true" />
-          <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
-        </profile>
+        <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
       <component name="PropertiesComponent">
-        <property name="options.lastSelected" value="preferences.pluginManager" />
-        <property name="options.splitter.main.proportions" value="0.2353362" />
-        <property name="options.splitter.details.proportions" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-        <property name="js.eslint.nodeInterpreter" value="$USER_HOME$/.nodebrew/current/bin/node" />
-        <property name="js.eslint.eslintPackage" value="" />
-        <property name="last_opened_file_path" value="$USER_HOME$/Desktop/production/github/backstopmedia" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
       </component>
     </defaultProject>
   </component>
