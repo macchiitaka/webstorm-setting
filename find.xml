@@ -3,9 +3,43 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.test..css</mask>
+      <mask>*.test..</mask>
+      <mask>*.test.</mask>
+      <mask>*.test.j</mask>
+      <mask>*.test.js</mask>
+      <mask>*.c.js</mask>
+      <mask>*.cs.js</mask>
+      <mask>*.css.js</mask>
+      <mask>*.s</mask>
+      <mask>*.st</mask>
+      <mask>*.sto</mask>
+      <mask>*.stor</mask>
+      <mask>*.story</mask>
+      <mask>*.story.</mask>
+      <mask>*.story.js</mask>
+      <mask>*..</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.fo</mask>
+      <mask>*.flow.j</mask>
+      <mask>*.flow</mask>
+      <mask>*.flo</mask>
+      <mask>*.f</mask>
+      <mask>*.fl</mask>
+      <mask>*.flow.</mask>
+      <mask>*.flow.js</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+    </recentFileMasks>
   </component>
 </application>
