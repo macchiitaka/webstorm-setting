@@ -23,5 +23,6 @@
     <mask>*.test.js</mask>
     <mask>*.flow.js</mask>
     <mask>*.model.js</mask>
+    <mask>*flow.js</mask>
   </component>
 </application>
