@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="css" type="CSS" />
       <mapping pattern="*.ejs.t" type="EJS" />
       <mapping pattern=".importsortrc" type="JSON" />
       <mapping ext="flow" type="JavaScript" />
