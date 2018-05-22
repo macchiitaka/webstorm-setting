@@ -7,6 +7,7 @@
       <mapping pattern=".importsortrc" type="JSON" />
       <mapping ext="flow" type="JavaScript" />
       <mapping pattern=".node-version" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="memo" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
