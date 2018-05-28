@@ -16,7 +16,6 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.test.js</mask>
@@ -25,5 +24,6 @@
     <mask>*story.js</mask>
     <mask>*flow.js</mask>
     <mask>*.css</mask>
+    <mask>*.js</mask>
   </component>
 </application>
