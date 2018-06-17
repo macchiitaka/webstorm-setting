@@ -1,18 +1,20 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping pattern="*.ejs.t" type="EJS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".importsortrc" type="JSON" />
       <mapping ext="flow" type="JavaScript" />
       <mapping pattern=".node-version" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".b" type="PLAIN_TEXT" />
-      <mapping pattern="memo" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping pattern="memo" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="t" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="css" type="PostCSS" />
     </extensionMap>
   </component>
 </application>
