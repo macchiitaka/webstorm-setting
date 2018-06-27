@@ -19,11 +19,6 @@
       <option name="JSP" value="true" />
     </context>
   </template>
-  <template name="!!!xs" value="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Strict//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&quot;&gt;" description="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Strict//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&quot;&gt;" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JSP" value="true" />
-    </context>
-  </template>
   <template name="!!!xxs" value="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.1//EN&quot; &quot;http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd&quot;&gt;" description="&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.1//EN&quot; &quot;http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JSP" value="true" />
