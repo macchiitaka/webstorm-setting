@@ -9,10 +9,11 @@
       <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping pattern=".b" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="fawe" type="PLAIN_TEXT" />
       <mapping pattern="memo" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="t" type="PLAIN_TEXT" />
       <mapping ext="css" type="PostCSS" />
     </extensionMap>
