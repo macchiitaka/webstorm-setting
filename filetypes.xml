@@ -16,9 +16,10 @@
       <mapping pattern=".node-version" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
+      <mapping ext="css" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="t" type="PLAIN_TEXT" />
-      <mapping ext="css" type="PostCSS" />
+      <removed_mapping ext="css" approved="true" type="CSS" />
     </extensionMap>
   </component>
 </application>
