@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="JavaScript/Introduce local variable" />
+  </component>
+</application>
