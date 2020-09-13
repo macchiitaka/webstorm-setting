@@ -1,5 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="React.useCallback(callback,deps)" />
+      </blacklist>
+    </blacklists>
     <option id="js.param.hints.show.names.for.all.args" value="true" />
     <option id="js.only.show.names.for.all.args" value="true" />
   </component>
