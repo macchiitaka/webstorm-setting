@@ -4,10 +4,11 @@
       <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping ext="js" type="Flow" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
+      <mapping ext="bk" type="PLAIN_TEXT" />
+      <mapping pattern="*.module.css" type="PostCSS" />
       <mapping ext="css" type="PostCSS" />
       <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
-      <mapping pattern="*.module.css" type="PostCSS" />
     </extensionMap>
   </component>
 </application>
