@@ -4,6 +4,7 @@
       <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping ext="js" type="Flow" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
+      <mapping pattern=".yarnclean" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
