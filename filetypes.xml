@@ -12,6 +12,7 @@
       <mapping ext="css" type="PostCSS" />
       <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
+      <removed_mapping pattern="Dockerfile" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
