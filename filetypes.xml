@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
-      <mapping ext="css" type="CSS" />
       <mapping ext="js" type="Flow" />
       <mapping pattern=".yarnclean" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
