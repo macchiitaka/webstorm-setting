@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping ext="js" type="Flow" />
+      <mapping pattern=".secretlintignore" type="GitIgnore file" />
       <mapping pattern=".yarnclean" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
