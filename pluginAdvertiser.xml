@@ -940,6 +940,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.rs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.rust.lang" />
+              <option name="myPluginName" value="Rust" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.sh">
           <value>
             <plugin>
@@ -1595,6 +1603,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="CargoCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Cargo" pluginName="Rust" pluginId="org.rust.lang" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
@@ -1658,6 +1671,11 @@
                   <entry key="ShConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                    </value>
+                  </entry>
+                  <entry key="WasmPackCommandRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="wasm-pack" pluginName="Rust" pluginId="org.rust.lang" />
                     </value>
                   </entry>
                   <entry key="XSLT">
