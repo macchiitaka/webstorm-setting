@@ -10,6 +10,7 @@
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="css" type="PostCSS" />
       <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="js" approved="true" type="JavaScript" />
