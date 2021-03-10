@@ -10,5 +10,6 @@
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="tabs.alphabetical" value="true" />
     <entry key="ide.images.show.chessboard" value="true" />
+    <entry key="eslint.additional.file.extensions" value="svelte" />
   </component>
 </application>
