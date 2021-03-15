@@ -11,6 +11,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="beacon" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.cloudflareinsights.com_beacon.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_static.cloudflareinsights.com_beacon.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="milligram" type="javaScript">
       <properties>
         <sourceFilesUrls>
